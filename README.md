@@ -36,5 +36,3 @@ diff --strip-trailing-cr -B -Z test1.out tests/test1.expected
 
 * Code follows the course guidelines and was checked against both the official tests and additional external tests.
 * Each assignment has its own README with more details.
-
-```
